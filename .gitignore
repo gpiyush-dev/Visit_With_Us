@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+mlruns/
+artifacts/train.csv
+artifacts/test.csv
+.DS_Store
